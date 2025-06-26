@@ -31,5 +31,40 @@ A simple yet powerful Expense Tracker Android application built with **Java**, *
 
 ### 👉 Run Locally
 ```bash
-git clone https://github.com/<your-username>/expense-tracker.git
+git clone https://github.com/MayielRaja/expense-tracker.git
 cd expense-tracker
+```
+1. Open with **Android Studio**
+2. Let Gradle sync and build
+3. Connect your Android device or run emulator
+4. Click ▶️ to launch!
+
+---
+
+## 📂 APK
+
+Download the latest `.apk` from [Releases](https://github.com/MayielRaja/Expense-Tracker/releases)
+
+---
+
+## 🛠 Future Enhancements
+
+- 🔄 Edit expenses
+- 📊 View total monthly/yearly stats
+- 📈 Chart visualization (Pie/Bar)
+- ☁️ Firebase backup (cloud sync)
+- 🔐 User authentication
+
+---
+
+## 👨‍💻 Developed By
+
+**Mayiel Raja Sundar Balamurugan**  
+[LinkedIn](https://www.linkedin.com/in/mayiel-raja-sundar-balamurugan-64a4641a74/)  
+[GitHub](https://github.com/MayielRaja)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
